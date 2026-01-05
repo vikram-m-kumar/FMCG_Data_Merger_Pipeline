@@ -7,6 +7,9 @@ A production-grade ELT pipeline designed to integrate a newly acquired startup�
 
 ## 📋 Project Overview
 
+<img width="20005" height="11129" alt="project_architecture" src="https://github.com/user-attachments/assets/0381fd35-7375-4e1c-ae43-e7c939997d92" />
+
+
 ### 🏢 Business Scenario
 A global FMCG enterprise (**Atlikon**) acquired a nutrition startup (**SportsBar**).
 
